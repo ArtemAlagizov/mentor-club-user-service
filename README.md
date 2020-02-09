@@ -10,4 +10,5 @@ todo:
 * apply for moving ses account out of sandbox => [aws guide](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/request-production-access.html)
 * implement this service
 * deploy to ec2 
-* give ec2 permissions to use ses(?)
+* create role for ec2 to be able to use ses(?)
+* assign the role to the ec2(?)
